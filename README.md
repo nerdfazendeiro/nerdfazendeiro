@@ -1,6 +1,5 @@
 # Olá, me chamo Rafael Ramalho Silveira ! 
 ## Bem vindo ao meu perfil GitHub 👋
-###
 
 Desenvolvedor Back End
 - 📚 Graduado em Ciencia da Computação;
@@ -14,7 +13,7 @@ Desenvolvedor Back End
 <i class="devicon-javascript-plain colored"></i>
 <i class="devicon-git-plain colored"></i>
 <i class="devicon-mysql-plain-wordmark colored"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<i class="devicon-intellij-plain-wordmark"></i>  
 <i class="devicon-visualstudio-plain colored"></i>
 
 ## Contatos:
@@ -25,7 +24,7 @@ Desenvolvedor Back End
 </div
 
 <div>
-<a href="https://github.com/nerffazendeiro">
+<a href="https://github.com/nerdfazendeiro">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
