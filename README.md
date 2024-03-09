@@ -8,13 +8,7 @@ Desenvolvedor Back End
 -  Curiosidade: Academia e Futebol;
 
 ## Ferramentas e Tecnologias
-<i class="devicon-java-plain-wordmark"></i>
-<i class="devicon-php-plain colored"></i>          
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-git-plain colored"></i>
-<i class="devicon-mysql-plain-wordmark colored"></i>
-<i class="devicon-intellij-plain-wordmark"></i>  
-<i class="devicon-visualstudio-plain colored"></i>
+<i class="devicon-java-plain-wordmark"></i> <i class="devicon-php-plain colored"></i><i class="devicon-git-plain colored"></i> <i class="devicon-mysql-plain-wordmark colored"></i> <i class="devicon-intellij-plain-wordmark"></i> <i class="devicon-visualstudio-plain colored"></i>
 
 ## Contatos:
 <div>
@@ -25,6 +19,6 @@ Desenvolvedor Back End
 
 <div>
 <a href="https://github.com/nerdfazendeiro">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdfazendeiro&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nerdfazendeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
