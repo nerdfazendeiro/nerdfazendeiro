@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Rafael Ramalho Silveira</h1>
-<h3 align="center">Um desenvolvedor Back-end apaixonado da Brasil</h3>
+<h3 align="center">Um desenvolvedor Back-end apaixonado</h3>
 
 - 🌱 Atualmente estou aprimorando minhas habilidades em **Atualmente estou aprimorando minhas habilidades em Java, APIs e bancos de dados;**
 
